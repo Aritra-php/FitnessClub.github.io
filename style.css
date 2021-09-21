@@ -1,0 +1,61 @@
+*
+{
+    font-family: 'ABeeZee', sans-serif;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.navbar
+{
+    background-color: #8919CA;
+}
+.nav-link
+{
+    color:#C9A2DF ;
+}
+.navbar-toggler
+{
+    background-color: #C9A2DF;
+}
+.carousel-inner img
+{
+    width:100%;
+    height:100%;
+}
+.carousel-caption
+{
+    position:absolute;
+    top:50%;
+    transform: translateY(-90%);
+}
+.carousel-caption h1
+{
+    text-transform:uppercase;
+    font-size: 50px;
+}
+.bgimage
+{
+    background-image: url(daniel-apodaca-WdoQio6HPVA-unsplash.jpg);
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center center center;
+}
+.bgimage2
+{
+    background-image: url(samuel-girven-BBR_zigEmyQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    background-size: cover;
+    background-position: center center center;
+}
+.container-fluid1
+{
+    background-color: #2A272C;
+    color: white;
+}
